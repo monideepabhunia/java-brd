@@ -1,0 +1,20 @@
+
+f
+java:S2259%"JA "NullPointerException" could be thrown; "fileContents" is nullable here.(о‹·#8іЮеТ1
+L	java:S106"+Replace this use of System.out by a logger.(Ќ­ЛЦюяяяя8ЎіЮеТ1
+t
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‰ўЏэюяяяя8ЎіЮеТ1
+F
+java:S1197%"*Move the array designators [] to the type.(о‹·#8©іЮеТ1
+G
+java:S1197)"*Move the array designators [] to the type.(КЛіћ8±іЮеТ1
+i
+java:S5998)"LRefactor this repetition that can lead to a stack overflow for large inputs.(КЛіћ8±іЮеТ1
+W
+java:S6213A":Rename this variable to not match a restricted identifier.(®ЅџЎ8±іЮеТ1
+g
+java:S2674`"JCheck the return value of the "read" call to see how many bytes were read.(µДџЄ8№іЮеТ1
+t
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(СэЌѓюяяяя8БіЮеТ1
+X
+java:S6213Ћ":Rename this variable to not match a restricted identifier.(‚Ъус8СіЮеТ1
