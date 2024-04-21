@@ -1,4 +1,4 @@
-This project is a POC for Java 8 Collections
+# This project is a POC for Java 8 Collections
 
 Data is extracted from data.csv file and specific operations are made to get the required output :
 
